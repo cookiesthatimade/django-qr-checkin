@@ -14,6 +14,21 @@
 
 </br>
 
+## 데모
+
+<p align="left">
+     <img src="https://github.com/user-attachments/assets/11cc172d-2750-4cb4-a043-ba0ecc20f1f0" width="200" height="400"/>
+     <img src="https://github.com/user-attachments/assets/245d5fbb-2bb4-4367-8671-916380b9b0c6" width="200" height="400"/>
+<br>
+     <img src="https://github.com/user-attachments/assets/dc76cf35-bf20-4657-8664-122684bc31b6" width="200" height="400" />
+     <img src="https://github.com/user-attachments/assets/fab1b718-4f6c-458f-b935-21c6e0f03a9a" width="200" height="400"/>
+     <img src="https://github.com/user-attachments/assets/bea30682-f174-42cc-8908-103a11b2a849" width="200" height="400"/>
+
+</p>
+
+
+</br>
+
 ## 기술 스택
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![django](https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white)
